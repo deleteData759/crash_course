@@ -6,5 +6,5 @@ This is a repo to train basic git workflows.
 
 Fix teh typos in this text.
 
-Thereee are some tyops here. Fxi them.
+There are some typos here. Fix them.
 
